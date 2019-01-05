@@ -32,5 +32,5 @@ To use the newly installed environment run:
 Before training there is a delay of a vew minutes as experienced by this user:
 https://github.com/tensorflow/tensorflow/issues/18652
 
-But it should work.
+But it should still work.
 
